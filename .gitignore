@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### MySql 계정 비밀번호를 위해 ###
+application.properties
